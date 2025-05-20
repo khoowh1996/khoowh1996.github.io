@@ -1,0 +1,54 @@
+.box {
+  position: relative;
+  width: 1310px;
+  height: 576px;
+}
+
+.box .header {
+  position: fixed;
+  width: 1314px;
+  height: 576px;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+.box .dark-mode {
+  position: absolute;
+  width: 10px;
+  height: 74px;
+  top: 501px;
+  left: 1296px;
+}
+
+.box .h {
+  position: absolute;
+  width: 566px;
+  height: 65px;
+  top: 268px;
+  left: 389px;
+}
+
+.box .menu {
+  position: absolute;
+  width: 19px;
+  height: 341px;
+  top: 179px;
+  left: 0;
+}
+
+.box .btn-call {
+  position: absolute;
+  width: 98px;
+  height: 39px;
+  top: 5px;
+  left: 1212px;
+}
+
+.box .mrk {
+  position: absolute;
+  width: 73px;
+  height: 26px;
+  top: 12px;
+  left: 36px;
+}
