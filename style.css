@@ -52,3 +52,419 @@
   top: 12px;
   left: 36px;
 }
+
+.box {
+  position: relative;
+  width: 1213px;
+  height: 813px;
+}
+
+.box .about {
+  position: fixed;
+  width: 1215px;
+  height: 813px;
+  top: 0;
+  left: 0;
+}
+
+.box .box-experience {
+  position: absolute;
+  width: 378px;
+  height: 257px;
+  top: 549px;
+  left: 0;
+}
+
+.box .overlap-group {
+  width: 376px;
+  height: 259px;
+  background-image: url(./img/rectangle-64.png);
+  position: relative;
+  top: -1px;
+  left: -1px;
+  background-size: 100% 100%;
+}
+
+.box .i-ve-had-experiences {
+  position: absolute;
+  width: 197px;
+  height: 16px;
+  top: 32px;
+  left: 45px;
+}
+
+.box .flexcontainer {
+  gap: 4px;
+  width: 296px;
+  height: 188px;
+  top: 53px;
+  left: 44px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.box .text {
+  position: relative;
+  align-self: stretch;
+  font-family: "Manrope-ExtraLight", Helvetica;
+  font-weight: 200;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .text-wrapper {
+  font-family: "Manrope-ExtraLight", Helvetica;
+  font-weight: 200;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+}
+
+.box .line {
+  width: 2px;
+  height: 226px;
+  left: 21px;
+  position: absolute;
+  top: 15px;
+}
+
+.box .overlap-wrapper {
+  width: 378px;
+  height: 264px;
+  left: 420px;
+  position: absolute;
+  top: 549px;
+}
+
+.box .overlap {
+  width: 376px;
+  height: 266px;
+  background-image: url(./img/rectangle-65.png);
+  position: relative;
+  top: -1px;
+  left: -1px;
+  background-size: 100% 100%;
+}
+
+.box .i-have-years-of {
+  position: absolute;
+  width: 238px;
+  height: 16px;
+  top: 32px;
+  left: 45px;
+}
+
+.box .div {
+  gap: 4px;
+  width: 296px;
+  height: 195px;
+  top: 53px;
+  left: 44px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.box .img {
+  width: 2px;
+  height: 233px;
+  left: 21px;
+  position: absolute;
+  top: 15px;
+}
+
+.box .overlap-group-wrapper {
+  width: 377px;
+  height: 239px;
+  left: 840px;
+  position: absolute;
+  top: 549px;
+}
+
+.box .overlap-2 {
+  width: 375px;
+  height: 241px;
+  background-image: url(./img/rectangle-66.png);
+  position: relative;
+  top: -1px;
+  left: -1px;
+  background-size: 100% 100%;
+}
+
+.box .i-work-and-study {
+  position: absolute;
+  width: 175px;
+  height: 15px;
+  top: 32px;
+  left: 44px;
+}
+
+.box .flexcontainer-2 {
+  gap: 4px;
+  width: 296px;
+  height: 162px;
+  top: 53px;
+  left: 43px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.box .line-2 {
+  width: 2px;
+  height: 208px;
+  left: 20px;
+  position: absolute;
+  top: 15px;
+}
+
+.box .box-wordpress {
+  position: absolute;
+  width: 281px;
+  height: 72px;
+  top: 414px;
+  left: 936px;
+}
+
+.box .overlap-3 {
+  width: 279px;
+  height: 74px;
+  background-image: url(./img/rectangle-63.png);
+  position: relative;
+  top: -1px;
+  left: -1px;
+  background-size: 100% 100%;
+}
+
+.box .word-press {
+  position: absolute;
+  width: 85px;
+  height: 12px;
+  top: 21px;
+  left: 84px;
+}
+
+.box .p {
+  position: absolute;
+  width: 186px;
+  top: 42px;
+  left: 84px;
+  font-family: "Manrope-ExtraLight", Helvetica;
+  font-weight: 200;
+  color: #000000;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .line-3 {
+  width: 1px;
+  height: 45px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+}
+
+.box .internet {
+  position: absolute;
+  width: 29px;
+  height: 30px;
+  top: 22px;
+  left: 20px;
+  object-fit: cover;
+}
+
+.box .box-react {
+  position: absolute;
+  width: 282px;
+  height: 72px;
+  top: 414px;
+  left: 624px;
+}
+
+.box .overlap-4 {
+  width: 280px;
+  height: 74px;
+  background-image: url(./img/rectangle-62.png);
+  position: relative;
+  top: -1px;
+  left: -1px;
+  background-size: 100% 100%;
+}
+
+.box .react-js {
+  position: absolute;
+  width: 63px;
+  height: 16px;
+  top: 21px;
+  left: 85px;
+}
+
+.box .text-wrapper-2 {
+  position: absolute;
+  width: 173px;
+  top: 42px;
+  left: 84px;
+  font-family: "Manrope-ExtraLight", Helvetica;
+  font-weight: 200;
+  color: #000000;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .line-4 {
+  width: 1px;
+  height: 45px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+}
+
+.box .img-2 {
+  position: absolute;
+  width: 29px;
+  height: 30px;
+  top: 22px;
+  left: 21px;
+  object-fit: cover;
+}
+
+.box .box-html {
+  position: absolute;
+  width: 282px;
+  height: 72px;
+  top: 414px;
+  left: 312px;
+}
+
+.box .overlap-5 {
+  width: 280px;
+  height: 74px;
+  background-image: url(./img/rectangle-61.png);
+  position: relative;
+  top: -1px;
+  left: -1px;
+  background-size: 100% 100%;
+}
+
+.box .html-css {
+  position: absolute;
+  width: 93px;
+  height: 12px;
+  top: 21px;
+  left: 85px;
+}
+
+.box .box-interface {
+  position: absolute;
+  width: 282px;
+  height: 72px;
+  top: 414px;
+  left: 0;
+}
+
+.box .overlap-6 {
+  width: 280px;
+  height: 74px;
+  background-image: url(./img/rectangle-60.png);
+  position: relative;
+  top: -1px;
+  left: -1px;
+  background-size: 100% 100%;
+}
+
+.box .interface-design {
+  position: absolute;
+  width: 142px;
+  height: 16px;
+  top: 21px;
+  left: 85px;
+}
+
+.box .briefing-wireframe {
+  position: absolute;
+  width: 174px;
+  height: 10px;
+  top: 46px;
+  left: 85px;
+}
+
+.box .bio {
+  position: absolute;
+  width: 1036px;
+  height: 198px;
+  top: 142px;
+  left: 78px;
+}
+
+.box .instagram-github {
+  position: absolute;
+  width: 216px;
+  top: 164px;
+  left: 269px;
+  font-family: "Manrope-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .flexcontainer-3 {
+  gap: 7px;
+  width: 761px;
+  height: 76px;
+  top: 69px;
+  left: 269px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.box .text-wrapper-3 {
+  position: absolute;
+  width: 247px;
+  top: 15px;
+  left: 269px;
+  font-family: "Manrope-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .element {
+  position: absolute;
+  width: 198px;
+  height: 198px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.box .hr {
+  position: absolute;
+  width: 90px;
+  height: 7px;
+  top: 53px;
+  left: 0;
+}
+
+.box .about-me {
+  position: absolute;
+  width: 137px;
+  height: 22px;
+  top: 10px;
+  left: 1px;
+}
